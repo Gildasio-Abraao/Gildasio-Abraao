@@ -14,4 +14,4 @@ Currently looking for new opportunities.
 
 ## GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Gildasio-Abraao=Gildasio-Abraao)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Gildasio-Abraao)](https://github.com/anuraghazra/github-readme-stats)
