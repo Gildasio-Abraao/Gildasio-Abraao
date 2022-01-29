@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Gildasio</h1>
-<h3 align="left">Front End developer, technology lover.</h3>
+<h3 align="left">Web developer, technology lover.</h3>
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Vue.js** and **Node.js**
 
 - 📫 How to reach me: **gildasio.abraao3@gmail.com**
 
