@@ -1,3 +1,4 @@
+<h1 align="center">What's up 👋</h1>
 <h3 align="center">Web developer, technology lover.</h3>
 
 - 🌱 I’m currently learning **Vue.js and Node.js**
