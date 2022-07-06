@@ -1,4 +1,4 @@
-<h1 align="center">Software Developer | Offensive Security</h1>
+<h1 align="center">Software Developer</h1>
 
 Apenas um Nordestino/Baiano que ama tecnologia 👨🏿‍💻❤️
 
