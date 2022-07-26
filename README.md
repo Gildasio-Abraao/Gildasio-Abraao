@@ -3,7 +3,7 @@
 Apenas um Nordestino/Baiano que ama tecnologia 👨🏿‍💻❤️
 
 A linguagem que eu tenho mais familiaridade é JavaScript, principalmente voltado para Web.
-Hoje meu estudo é focado em Desenvolvimento Web/Mobile!
+Hoje meu estudo é focado em Desenvolvimento Web!
 
 - 📫 How to reach me **gildasio.abraao3@gmail.com**
 
