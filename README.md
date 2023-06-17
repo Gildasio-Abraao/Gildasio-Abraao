@@ -1,6 +1,5 @@
 # 💫 About Me:
-Software Developer with experience in creating and maintaining web applications using Vue.js and JavaScript. I have solid skills in building reusable components and
-scalable application development with Vue.js
+I'm a Software Engineer specialized in Full-stack Development. I have solid skills in building reusable components and scalable applications.
 
 
 ## 🌐 Socials:
