@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm a Software Engineer specialized in Full-stack Development. I have solid skills in building reusable components and scalable applications.
+Tenho anos de experiência em JavaScript e TypeScript, já participei de diversos projetos bem-sucedidos, onde implementei soluções eficientes utilizando frameworks como Vue.js e React.
+Atualmente estou me especializando em Java, pretendendo atuar com a linguagem.
 
 
 ## 🌐 Socials:
